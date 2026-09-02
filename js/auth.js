@@ -14,7 +14,7 @@
 // ============================================================
 const DEFAULT_CONFIG = {
   apiUrl: 'https://script.google.com/macros/s/AKfycbxSu8mRoQOEdxb1Sa6R7M6AYjB8jVQvWqyaU5Sj6lm5h9zuN_bIXv6QWK3eRm6DQCYuyw/exec',
-  adminId: '1ZittRkavpEEjJXN8tohSJ0qhUeNPSjuYDQktefwlmWo',
+  adminId: '1U2Xe51oAy1C8pXN90dyQuyyk4-u65if5TgLudZoF4M8',
   checadorId: '1LL_EodpNUFWXguzp-YuFHvRbli7MpY7dll3kShKOvbo',
   financieroId: '12g1PZRAVkqsCvhNFiR9WU5zqGA6dvMf1cUkP4NS4YxE'
 };
